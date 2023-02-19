@@ -1,0 +1,7 @@
+com\pams\Servlet\Add.class
+com\pams\service\ServiceServlet.class
+com\pams\service\AddDoctor.class
+com\pams\controller\LoginServlet.class
+com\pams\database\DatabaseConnection.class
+com\pams\dao\DoctorDao.class
+com\pams\model\Doctor.class
